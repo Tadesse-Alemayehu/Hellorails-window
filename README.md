@@ -1,24 +1,62 @@
-# README
+# Ruby on rail - window machine
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## Built With
 
-Things you may want to cover:
+- ROR
 
-* Ruby version
+## Getting Started
 
-* System dependencies
+1. Open [dev branch](https://github.com/Tadesse-Alemayehu/Hellorails-window)
+2. Open VSCode or terminal and navigate to the folder where you would like to clone the project.
+3. Type "pwd" to see your working directory.
+4. [clone repository](https://github.com/Tadesse-Alemayehu/Hellorails-window)
 
-* Configuration
+```bash
+$ git clone https://github.com/Tadesse-Alemayehu/Hellorails-window
+```
 
-* Database creation
+5. Run
 
-* Database initialization
+```bash
+ruby main.rb
+```
 
-* How to run the test suite
+6. Enjoy 😎
 
-* Services (job queues, cache servers, search engines, etc.)
+### Prerequisites
 
-* Deployment instructions
+You must have Ruby installed in your computer.
 
-* ...
+### Clone this repo
+
+`git clone git@github.com:marilirulita/Hellorails-window`
+
+### In your terminal:
+
+`ruby main.rb`
+
+## Authors
+
+👤 **Tadesse Alemayehu**
+
+- GitHub: [@Tadess-Alemayehu](https://github.com/Tadesse-Alemayehu)
+- Twitter: [@TadesseWebDev](https://twitter.com/TadesseWebDev)
+- LinkedIn: [Tadesse Alemayehu](https://www.linkedin.com/in/tadesse-alemayehu-60141a221/)
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](../../issues/).
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+
+## Acknowledgments
+
+- Hat tip to all our code reviewers and partners at Microverse.
+
+## 📝 License
+
+This project is [MIT](./LICENSE) licensed.
