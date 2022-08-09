@@ -85,4 +85,4 @@ production:
   <<: *default
   database: hellorails_production
   username: hellorails
-  password: <%= ENV['HELLO_RAILS_PASSWORD'] %>
+  password: hellorails
