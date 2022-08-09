@@ -23,7 +23,7 @@ default: &default
 
 development:
   <<: *default
-  database: hellorails_production
+  database: hellorails_development
   username: hellorails
   password: hellorails
 
